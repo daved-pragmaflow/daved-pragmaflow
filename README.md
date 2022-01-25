@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @daved-pragmaflow
+- 👀 I’m interested in programming
+- 🌱 I’m currently completing my README.md file
